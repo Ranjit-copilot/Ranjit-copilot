@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Ranjit Rajbhar, Sr. Support Engineer, IT Support, System Administration, Networking and IT Operations profile">
+  <title>Ranjit Rajbhar — Technical Profile</title>
+  <desc>Terminal-inspired professional profile for Ranjit Rajbhar, Sr. Support Engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#030712"/><stop offset=".55" stop-color="#07111F"/><stop offset="1" stop-color="#0B1220"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;.03 .01;0 0" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#7C3AED"/><stop offset=".52" stop-color="#22D3EE"/><stop offset="1" stop-color="#10B981"/>
+      <animate attributeName="x1" values="0;1;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#172033" stop-opacity=".70"/><stop offset="1" stop-color="#0B1220" stop-opacity=".38"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#22D3EE" stop-opacity=".20"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow"><feGaussianBlur stdDeviation="10"/></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="3"/></filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#94A3B8" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="leftClip"><rect x="36" y="82" width="410" height="492" rx="22"/></clipPath>
+  </defs>
+
+  <rect x="8" y="8" width="1164" height="594" rx="24" fill="#020617" opacity=".9" filter="url(#shadow)"/>
+  <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#bg)" stroke="#334155" stroke-opacity=".7"/>
+  <rect x="10" y="10" width="1160" height="590" rx="24" fill="url(#grid)"/>
+  <ellipse cx="310" cy="180" rx="290" ry="210" fill="url(#glow)">
+    <animate attributeName="opacity" values=".55;.85;.55" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- terminal chrome -->
+  <rect x="10" y="10" width="1160" height="52" rx="24" fill="#0F172A" fill-opacity=".82"/>
+  <path d="M10 62H1170" stroke="#475569" stroke-opacity=".45"/>
+  <circle cx="38" cy="36" r="6" fill="#F87171"/>
+  <circle cx="60" cy="36" r="6" fill="#FBBF24"/>
+  <circle cx="82" cy="36" r="6" fill="#34D399"/>
+  <text x="108" y="41" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">developer@profile:~</text>
+  <text x="1038" y="41" fill="#34D399" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">[ ONLINE ]</text>
+
+  <!-- left visual map -->
+  <rect x="36" y="82" width="410" height="492" rx="22" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".24"/>
+  <text x="60" y="113" fill="#67E8F9" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" letter-spacing="3">VISUAL.MAP</text>
+  <text x="60" y="138" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">profile.render()</text>
+
+  <!-- ASCII-style portrait -->
+  <g clip-path="url(#leftClip)" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="8" letter-spacing="2.1" fill="#67E8F9" text-anchor="middle" opacity=".9">
+    <text x="241" y="178">...........···:+**#%%%%#**+:······...........</text>
+    <text x="241" y="190">........··:+*#%%%%%%%%%%%%%%#*+:······.......</text>
+    <text x="241" y="202">......·:+*#%%%%%###****###%%%%%#*+:····.......</text>
+    <text x="241" y="214">.....·*#%%%%%##*+::::::::+*##%%%%%#*····.......</text>
+    <text x="241" y="226">....·#%%%%%#*+··············+*#%%%%%#·........</text>
+    <text x="241" y="238">....#%%%%%#*·····:+**+:·······*#%%%%%#........</text>
+    <text x="241" y="250">...#%%%%%#*·····+*####*+·······*#%%%%%#.......</text>
+    <text x="241" y="262">...%%%%%%*······*##..##*········*%%%%%%.......</text>
+    <text x="241" y="274">...%%%%%%*······*######*········*%%%%%%.......</text>
+    <text x="241" y="286">...#%%%%%#*·····+*####*+·······*#%%%%%#.......</text>
+    <text x="241" y="298">....#%%%%%#*······+**+········*#%%%%%#........</text>
+    <text x="241" y="310">....·#%%%%%#*+··············+*#%%%%%#·........</text>
+    <text x="241" y="322">.....·*#%%%%%##*+::::::::+*##%%%%%#*····.......</text>
+    <text x="241" y="334">......·:+*#%%%%%###****###%%%%%#*+:····.......</text>
+    <text x="241" y="346">........··:+*#%%%%%%%%%%%%%%#*+:······.......</text>
+    <text x="241" y="358">...........···:+**#%%%%#**+:······...........</text>
+    <animate attributeName="opacity" values="0;.92" dur=".35s" fill="freeze"/>
+  </g>
+
+  <!-- scanline -->
+  <rect x="58" y="160" width="366" height="2" fill="#22D3EE" opacity=".18">
+    <animate attributeName="y" values="160;470;160" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="241" y="406" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="18" font-weight="700" text-anchor="middle">RANJIT RAJBHAR</text>
+  <text x="241" y="432" fill="#67E8F9" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="13" text-anchor="middle">SR. SUPPORT ENGINEER</text>
+  <text x="241" y="459" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11" text-anchor="middle">IT SUPPORT · SYSTEM ADMIN · NETWORKING</text>
+  <text x="60" y="525" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">~/profile $ build --support --operate</text>
+  <circle cx="397" cy="521" r="4" fill="#10B981"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+
+  <!-- right panel -->
+  <rect x="468" y="82" width="676" height="492" rx="22" fill="url(#glass)" stroke="#A78BFA" stroke-opacity=".25"/>
+  <text x="500" y="113" fill="#C4B5FD" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" letter-spacing="3">SYSTEM.INFO</text>
+  <text x="500" y="139" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">ranjit@profile:~$ ./profile.sh</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace">
+    <text x="500" y="178" fill="#22D3EE" font-size="11">NAME</text>
+    <text x="650" y="178" fill="#F8FAFC" font-size="14">Ranjit Rajbhar</text>
+
+    <text x="500" y="207" fill="#22D3EE" font-size="11">ROLE</text>
+    <text x="650" y="207" fill="#F8FAFC" font-size="14">Sr. Support Engineer</text>
+
+    <text x="500" y="236" fill="#22D3EE" font-size="11">COMPANY</text>
+    <text x="650" y="236" fill="#E2E8F0" font-size="13">Keva Flavours Pvt Ltd.</text>
+
+    <text x="500" y="265" fill="#22D3EE" font-size="11">EXPERIENCE</text>
+    <text x="650" y="265" fill="#E2E8F0" font-size="13">7+ years · IT Support / Operations</text>
+
+    <text x="500" y="294" fill="#22D3EE" font-size="11">FOCUS</text>
+    <text x="650" y="294" fill="#E2E8F0" font-size="13">System Administration · Networking</text>
+
+    <path d="M500 315H1112" stroke="#334155" stroke-opacity=".65"/>
+
+    <text x="500" y="344" fill="#C4B5FD" font-size="11" letter-spacing="2">CORE STACK</text>
+
+    <g font-size="11">
+      <rect x="500" y="360" width="104" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".35"/>
+      <text x="552" y="378" fill="#BAE6FD" text-anchor="middle">Windows</text>
+      <rect x="614" y="360" width="116" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".35"/>
+      <text x="672" y="378" fill="#BAE6FD" text-anchor="middle">Active Directory</text>
+      <rect x="740" y="360" width="82" height="28" rx="14" fill="#0F172A" stroke="#A78BFA" stroke-opacity=".35"/>
+      <text x="781" y="378" fill="#DDD6FE" text-anchor="middle">Networking</text>
+      <rect x="832" y="360" width="80" height="28" rx="14" fill="#0F172A" stroke="#34D399" stroke-opacity=".35"/>
+      <text x="872" y="378" fill="#A7F3D0" text-anchor="middle">CCNA</text>
+
+      <rect x="500" y="398" width="88" height="28" rx="14" fill="#0F172A" stroke="#A78BFA" stroke-opacity=".35"/>
+      <text x="544" y="416" fill="#DDD6FE" text-anchor="middle">Sophos</text>
+      <rect x="598" y="398" width="116" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".35"/>
+      <text x="656" y="416" fill="#BAE6FD" text-anchor="middle">Windows Server</text>
+      <rect x="724" y="398" width="90" height="28" rx="14" fill="#0F172A" stroke="#34D399" stroke-opacity=".35"/>
+      <text x="769" y="416" fill="#A7F3D0" text-anchor="middle">PowerShell</text>
+      <rect x="824" y="398" width="92" height="28" rx="14" fill="#0F172A" stroke="#22D3EE" stroke-opacity=".35"/>
+      <text x="870" y="416" fill="#BAE6FD" text-anchor="middle">ITSM / SLA</text>
+    </g>
+
+    <path d="M500 448H1112" stroke="#334155" stroke-opacity=".65"/>
+    <text x="500" y="475" fill="#C4B5FD" font-size="11" letter-spacing="2">SELECTED WORK</text>
+    <text x="500" y="501" fill="#F8FAFC" font-size="12">IT Support Toolkit</text>
+    <text x="500" y="523" fill="#94A3B8" font-size="11">HTML · CSS · JavaScript · Windows support automation</text>
+    <text x="500" y="548" fill="#F8FAFC" font-size="12">IT System Report Automation</text>
+    <text x="500" y="567" fill="#94A3B8" font-size="11">PowerShell · system diagnostics · support reporting</text>
+  </g>
+
+  <!-- border shimmer -->
+  <rect x="10" y="10" width="1160" height="590" rx="24" fill="none" stroke="url(#accent)" stroke-opacity=".25" stroke-width="2">
+    <animate attributeName="stroke-opacity" values=".12;.42;.12" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
