@@ -315,7 +315,7 @@ Supporting enterprise IT operations across a **400+ device environment**, spanni
 # GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ranjit-copilot&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://gh-trophy.cdnsoft.net/?username=Ranjit-copilot&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 </div>
 
 ---
@@ -323,7 +323,7 @@ Supporting enterprise IT operations across a **400+ device environment**, spanni
 # Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjit-copilot&bg_color=0D0B18&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+<img src="./contrib-heatmap.svg" width="100%"/>
 </div>
 
 ---
