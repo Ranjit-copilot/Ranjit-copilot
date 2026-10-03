@@ -40,6 +40,29 @@ A GitHub Pages project built with HTML, CSS and JavaScript.
 - Windows Server 2022 Essential Training
 - CCNA v1.1 (200-301) learning
 
+
+## Animated GitHub Activity
+
+<div align="center">
+
+### <code>ranjit@github ~ $ ./contributions.sh</code>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap for Ranjit-copilot">
+
+<br><br>
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="./info-card.svg" width="520" alt="Technical Ranjit terminal profile card">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+The contribution calendar is generated from GitHub's public contribution calendar and refreshed automatically with GitHub Actions.
+
 ## GitHub
 
 Explore the repositories and projects on my GitHub profile:
