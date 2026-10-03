@@ -320,14 +320,6 @@ Supporting enterprise IT operations across a **400+ device environment**, spanni
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-<img src="./contrib-heatmap.svg" width="100%"/>
-</div>
-
----
-
 # Contribution Snake
 
 <div align="center">
