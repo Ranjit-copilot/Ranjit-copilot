@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" role="img" aria-labelledby="title desc">
+  <title id="title">Technical Ranjit profile information</title>
+  <desc id="desc">A terminal-style information card for Ranjit Rajbhar, Senior Support Engineer.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#39d353"/>
+      <stop offset="1" stop-color="#69f0a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="330" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="518" height="40" rx="15" fill="#161b22"/>
+  <circle cx="22" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="21" r="6" fill="#27c93f"/>
+  <text x="82" y="26" fill="#8b949e" font-family="monospace" font-size="13">technical-ranjit — neofetch</text>
+
+  <g font-family="monospace" font-size="14">
+    <text x="28" y="72" fill="url(#accent)" font-size="20" font-weight="700">Technical Ranjit</text>
+    <text x="28" y="98" fill="#8b949e">────────────────────────────────────</text>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur=".35s" begin=".25s" fill="freeze"/>
+      <text x="28" y="128" fill="#39d353">Role</text><text x="145" y="128" fill="#e6edf3">Sr. Support Engineer</text>
+      <text x="28" y="154" fill="#39d353">Focus</text><text x="145" y="154" fill="#e6edf3">IT Support &amp; Operations</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur=".35s" begin=".55s" fill="freeze"/>
+      <text x="28" y="180" fill="#39d353">Systems</text><text x="145" y="180" fill="#e6edf3">Windows / Server / AD / GPO</text>
+      <text x="28" y="206" fill="#39d353">Network</text><text x="145" y="206" fill="#e6edf3">LAN/WAN / DNS / DHCP / Firewall</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur=".35s" begin=".85s" fill="freeze"/>
+      <text x="28" y="232" fill="#39d353">Tools</text><text x="145" y="232" fill="#e6edf3">PowerShell / ITSM / CCNA</text>
+      <text x="28" y="258" fill="#39d353">Build</text><text x="145" y="258" fill="#e6edf3">Automation &amp; troubleshooting</text>
+    </g>
+
+    <text x="28" y="292" fill="#8b949e">status</text>
+    <text x="90" y="292" fill="#39d353">● ONLINE</text>
+    <text x="190" y="292" fill="#8b949e">|</text>
+    <text x="208" y="292" fill="#58a6ff">Mumbai, IN</text>
+  </g>
+</svg>
