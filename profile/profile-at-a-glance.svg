@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#171329"/><stop offset="1" stop-color="#0d0b18"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect x="2" y="2" width="916" height="296" rx="22" fill="url(#g)" stroke="#332b55"/>
+<text x="36" y="48" fill="#fff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Profile at a glance</text>
+<text x="36" y="72" fill="#8f88a8" font-family="Arial,sans-serif" font-size="13">TECHNICAL RANJIT • IT OPERATIONS • INFRASTRUCTURE • AUTOMATION</text>
+<path d="M36 88H884" stroke="#2b2545"/>
+<g font-family="Arial,sans-serif">
+<g><rect x="36" y="108" width="196" height="74" rx="14" fill="#121022" stroke="#2d2749"/><text x="54" y="132" fill="#8f88a8" font-size="12">ROLE</text><text x="54" y="157" fill="#fff" font-size="17" font-weight="700">Sr. Support Engineer</text></g>
+<g><rect x="248" y="108" width="196" height="74" rx="14" fill="#121022" stroke="#2d2749"/><text x="266" y="132" fill="#8f88a8" font-size="12">EXPERIENCE</text><text x="266" y="157" fill="#fff" font-size="17" font-weight="700">7+ Years IT Support</text></g>
+<g><rect x="460" y="108" width="196" height="74" rx="14" fill="#121022" stroke="#2d2749"/><text x="478" y="132" fill="#8f88a8" font-size="12">ENVIRONMENT</text><text x="478" y="157" fill="#fff" font-size="17" font-weight="700">400+ Devices</text></g>
+<g><rect x="672" y="108" width="212" height="74" rx="14" fill="#121022" stroke="#2d2749"/><text x="690" y="132" fill="#8f88a8" font-size="12">LOCATION</text><text x="690" y="157" fill="#fff" font-size="17" font-weight="700">Mumbai, India</text></g>
+<text x="36" y="220" fill="#a78bfa" font-size="12" font-weight="700">CORE FOCUS</text>
+<text x="36" y="247" fill="#d8d3e8" font-size="15">Windows • Active Directory • Windows Server • Networking • ITSM • PowerShell • Firewall</text>
+<rect x="36" y="266" width="848" height="3" rx="2" fill="url(#a)"/>
+</g></svg>
