@@ -1,0 +1,53 @@
+name: Add Premium Profile Dashboard
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  add-dashboard:
+    if: ${{ !contains(github.event.head_commit.message, '[profile-dashboard]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Append dashboard without touching existing README content
+        shell: bash
+        run: |
+          set -e
+          if grep -q '<!-- RANJIT_PREMIUM_PROFILE_DASHBOARD -->' README.md; then
+            echo 'Dashboard already exists.'
+            exit 0
+          fi
+
+          cat >> README.md <<'EOF'
+
+---
+
+<!-- RANJIT_PREMIUM_PROFILE_DASHBOARD -->
+# ✦ Premium Profile Dashboard
+
+<div align="center">
+
+<img src="./profile/profile-at-a-glance.svg" width="100%" alt="Technical Ranjit — Profile at a glance" />
+
+<br/><br/>
+
+<img src="./profile/tools-i-build-with.svg" width="100%" alt="Technical Ranjit — Tools I build with" />
+
+</div>
+
+EOF
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git rm .github/workflows/profile-dashboard-once.yml
+          git commit -m "Add premium profile dashboard [profile-dashboard]"
+          git push
