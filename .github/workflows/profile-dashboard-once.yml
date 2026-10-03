@@ -25,26 +25,8 @@ jobs:
             echo 'Dashboard already exists.'
             exit 0
           fi
-
-          cat >> README.md <<'EOF'
-
----
-
-<!-- RANJIT_PREMIUM_PROFILE_DASHBOARD -->
-# ✦ Premium Profile Dashboard
-
-<div align="center">
-
-<img src="./profile/profile-at-a-glance.svg" width="100%" alt="Technical Ranjit — Profile at a glance" />
-
-<br/><br/>
-
-<img src="./profile/tools-i-build-with.svg" width="100%" alt="Technical Ranjit — Tools I build with" />
-
-</div>
-
-EOF
-
+          PAYLOAD='CgotLS0KCjwhLS0gUkFOSklUX1BSRU1JVU1fUFJPRklMRV9EQVNIQk9BUkQgLS0+CiMg4pymIFByZW1pdW0gUHJvZmlsZSBEYXNoYm9hcmQKCjxkaXYgYWxpZ249ImNlbnRlciI+Cgo8aW1nIHNyYz0iLi9wcm9maWxlL3Byb2ZpbGUtYXQtYS1nbGFuY2Uuc3ZnIiB3aWR0aD0iMTAwJSIgYWx0PSJUZWNobmljYWwgUmFuaml0IOKAlCBQcm9maWxlIGF0IGEgZ2xhbmNlIiAvPgoKPGJyLz48YnIvPgoKPGltZyBzcmM9Ii4vcHJvZmlsZS90b29scy1pLWJ1aWxkLXdpdGguc3ZnIiB3aWR0aD0iMTAwJSIgYWx0PSJUZWNobmljYWwgUmFuaml0IOKAlCBUb29scyBJIGJ1aWxkIHdpdGgiIC8+Cgo8L2Rpdj4KCg=='
+          printf '%s' "$PAYLOAD" | base64 -d >> README.md
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
