@@ -315,7 +315,7 @@ Supporting enterprise IT operations across a **400+ device environment**, spanni
 # GitHub Trophies
 
 <div align="center">
-<img src="https://gh-trophy.cdnsoft.net/?username=Ranjit-copilot&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
