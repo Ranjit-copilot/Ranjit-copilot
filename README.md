@@ -388,3 +388,20 @@ Open To:
 **Technical Ranjit • IT Operations • Infrastructure • Automation**
 
 </div>
+
+
+---
+
+<!-- RANJIT_PREMIUM_PROFILE_DASHBOARD -->
+# ✦ Premium Profile Dashboard
+
+<div align="center">
+
+<img src="./profile/profile-at-a-glance.svg" width="100%" alt="Technical Ranjit — Profile at a glance" />
+
+<br/><br/>
+
+<img src="./profile/tools-i-build-with.svg" width="100%" alt="Technical Ranjit — Tools I build with" />
+
+</div>
+
