@@ -1,4 +1,4 @@
-# Ranjit Rajbhar — 
+# Ranjit Rajbhar
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
