@@ -6,40 +6,38 @@
   <img src="./dark.svg" alt="Ranjit Rajbhar — Sr. Support Engineer, IT Support, System Administration, Networking and IT Operations">
 </picture>
 
-## About
+---
 
-Sr. Support Engineer focused on IT support, system administration, networking, Active Directory, Windows Server and day-to-day IT operations.
+# GitHub Analytics
 
-## Core Focus
+<div align="center">
 
-- IT Support & IT Operations
-- Windows & Windows Server administration
-- Active Directory, Group Policy and user administration
-- LAN/WAN, DNS, DHCP and endpoint troubleshooting
-- Firewall and network support
-- ITSM / SLA-driven support
-- PowerShell and support automation
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjit-copilot&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D0B18&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=7C3AED" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjit-copilot&hide_border=true&theme=tokyonight&background=0D0B18&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
 
-## Selected Projects
+<br/>
 
-### IT Support Toolkit
-A browser-based collection of practical IT support utilities and Windows troubleshooting workflows.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-copilot&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D0B18&title_color=A78BFA&text_color=CBD5E1" height="170"/>
 
-### IT System Report Automation
-A PowerShell-based reporting workflow for collecting endpoint and system information for IT support use.
+</div>
 
-### My Life Map / Life-Story
-A GitHub Pages project built with HTML, CSS and JavaScript.
+---
 
-## Technology
+# GitHub Trophies
 
-`Windows` · `Windows Server` · `Active Directory` · `GPO` · `Networking` · `CCNA` · `Sophos Firewall` · `PowerShell` · `HTML` · `CSS` · `JavaScript` · `ITSM`
+<div align="center">
+<img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
 
-## Certifications & Learning
+---
 
-- Windows Server 2022 Essential Training
-- CCNA v1.1 (200-301) learning
+# Contribution Snake
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Ranjit-copilot/Ranjit-copilot/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</div>
+
+---
 
 ## Animated GitHub Activity
 
