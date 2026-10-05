@@ -58,10 +58,6 @@
 
 <div align="center">
 
-### <code>ranjit@github ~ $ ./contributions.sh</code>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Animated GitHub contribution heatmap for Ranjit-copilot">
-
 <br><br>
 
 <table>
