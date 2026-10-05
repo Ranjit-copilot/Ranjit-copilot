@@ -54,7 +54,7 @@
 
 ---
 
-## Animated GitHub Activity
+## Animated Profile Card
 
 <div align="center">
 
@@ -101,6 +101,58 @@
 </div>
 
 ---
+
+# Certifications & Learning
+
+### Microsoft
+
+<img src="https://img.shields.io/badge/Windows_Server_2022-Essential_Training-312E81?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+### Cisco
+
+<img src="https://img.shields.io/badge/CCNA-200--301-4C1D95?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+### Current Learning
+
+<img src="https://img.shields.io/badge/Azure-Learning-4338CA?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_365-Learning-6D28D9?style=for-the-badge&logo=microsoft365&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intune-Learning-312E81?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/ServiceNow-Learning-4C1D95?style=for-the-badge&logo=servicenow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-Learning-4338CA?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-4338CA?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
+</div>
+
+------
+
+# Connect
+
+<div align="center">
+
+<a href="https://github.com/Ranjit-copilot"><img src="https://img.shields.io/badge/GitHub-Ranjit--copilot-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ranjit-copilot.github.io/Life-Story/"><img src="https://img.shields.io/badge/Portfolio-Life%20Story-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=110&section=footer&text=Build.%20Automate.%20Solve.%20Scale.&fontSize=23&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+**Technical Ranjit • IT Operations • Infrastructure • Automation**
+
+</div>
 
 ## Engineering Profile
 
@@ -251,39 +303,6 @@ Supporting enterprise IT operations across a **400+ device environment**, spanni
 
 ---
 
-# Certifications & Learning
-
-### Microsoft
-
-<img src="https://img.shields.io/badge/Windows_Server_2022-Essential_Training-312E81?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/CCNA-200--301-4C1D95?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-### Current Learning
-
-<img src="https://img.shields.io/badge/Azure-Learning-4338CA?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_365-Learning-6D28D9?style=for-the-badge&logo=microsoft365&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intune-Learning-312E81?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/ServiceNow-Learning-4C1D95?style=for-the-badge&logo=servicenow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerShell-Learning-4338CA?style=for-the-badge&logo=powershell&logoColor=white"/>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-4338CA?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
-
----
-
 # Current Focus
 
 Learning:
@@ -318,25 +337,6 @@ Open To:
   - IT Automation
 \`\`\`
 
----
 
-# Connect
-
-<div align="center">
-
-<a href="https://github.com/Ranjit-copilot"><img src="https://img.shields.io/badge/GitHub-Ranjit--copilot-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://ranjit-copilot.github.io/Life-Story/"><img src="https://img.shields.io/badge/Portfolio-Life%20Story-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=110&section=footer&text=Build.%20Automate.%20Solve.%20Scale.&fontSize=23&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-**Technical Ranjit • IT Operations • Infrastructure • Automation**
-
-</div>
 
 
