@@ -17,10 +17,6 @@
 
 <br/><br/>
 
-<img src="./profile/ranjit-ascii.svg" width="760" alt="Technical Ranjit — temporary ASCII portrait" />
-
-<br/><br/>
-
 <img src="./profile/tools-i-build-with.svg" width="100%" alt="Technical Ranjit — Tools I build with" />
 
 </div>
