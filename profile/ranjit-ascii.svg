@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+<title id="title">Technical Ranjit ASCII Portrait</title>
+<desc id="desc">A compact terminal-style ASCII portrait card for Technical Ranjit.</desc>
+<rect width="760" height="420" rx="22" fill="#0D0B18"/>
+<rect x="18" y="18" width="724" height="384" rx="16" fill="none" stroke="#6D28D9" stroke-width="2"/>
+<text x="44" y="58" fill="#A78BFA" font-family="monospace" font-size="16" font-weight="700">TECHNICAL RANJIT // ASCII PORTRAIT</text>
+<text x="44" y="82" fill="#64748B" font-family="monospace" font-size="11">TEMPORARY PROFILE PORTRAIT • PASSPORT CROP • TERMINAL STYLE</text>
+<g transform="translate(70 105)" fill="#C4B5FD" font-family="monospace" font-size="11" font-weight="700" xml:space="preserve">
+<text y="0">                 .::::::::::::.</text>
+<text y="13">             .::::::******::::::.</text>
+<text y="26">          .::::***::::::::***::::.</text>
+<text y="39">        .:::***:::::......::::***:::.</text>
+<text y="52">      .::***::::..          ..::::***::.</text>
+<text y="65">     .::**:::..      ....      ..:::**::.</text>
+<text y="78">    .:**::..     .::::::::.     ..::**:.</text>
+<text y="91">   .:**::.     .::********::.     .::**:.</text>
+<text y="104">   :**::.    .::***::::::***::.    .::**:</text>
+<text y="117">  .**::.    .:**::.      .::**:.    .::**.</text>
+<text y="130">  :**:.    .:**:.   ..    .:**:.    .:**:</text>
+<text y="143"> .**:.    .:**:.  .****.  .:**:.    .:**.</text>
+<text y="156"> .**:.    .:**:.  :****:  .:**:.    .:**.</text>
+<text y="169"> :**:.    .:**:.   ....   .:**:.    .:**:</text>
+<text y="182"> :**:.     .:**:.        .:**:.     .:**:</text>
+<text y="195"> .**:.      .:**::......::**:.      .:**.</text>
+<text y="208">  :**:.      .::********:::.      .:**:</text>
+<text y="221">  .**::.        ..::::..        .::**:.</text>
+<text y="234">   :**::.                     .::**:</text>
+<text y="247">    :***::.                 .::***:</text>
+<text y="260">     :****::.             .::****:</text>
+<text y="273">      :******::..     ..::******:</text>
+<text y="286">       .*********:::::*********.</text>
+<text y="299">         .*******************.</text>
+<text y="312">            .*************.</text>
+</g>
+<g transform="translate(405 132)" font-family="monospace">
+<text x="0" y="0" fill="#A78BFA" font-size="13">$ whoami</text>
+<text x="0" y="25" fill="#F8FAFC" font-size="22" font-weight="700">Ranjit Rajbhar</text>
+<text x="0" y="52" fill="#94A3B8" font-size="13">Sr. Support Engineer</text>
+<text x="0" y="82" fill="#8B5CF6" font-size="13">Windows • AD • Networking</text>
+<text x="0" y="106" fill="#8B5CF6" font-size="13">ITSM • Automation • PowerShell</text>
+<text x="0" y="145" fill="#64748B" font-size="11">$ profile --mode ascii</text>
+<text x="0" y="166" fill="#34D399" font-size="11">status: online</text>
+<text x="0" y="190" fill="#64748B" font-size="11">$ build --style terminal</text>
+<text x="0" y="211" fill="#34D399" font-size="11">✓ compact / ✓ responsive</text>
+</g>
+<text x="44" y="378" fill="#475569" font-family="monospace" font-size="10">Ranjit-copilot • GitHub Profile • 2026</text>
+</svg>
