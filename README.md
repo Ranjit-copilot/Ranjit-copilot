@@ -59,14 +59,6 @@
 
 </div>
 
-The contribution calendar is generated from GitHub's public contribution calendar and refreshed automatically with GitHub Actions.
-
-## GitHub
-
-Explore the repositories and projects on my GitHub profile:
-
-- https://github.com/Ranjit-copilot
-
 ---
 
 <p align="center">
@@ -74,7 +66,7 @@ Explore the repositories and projects on my GitHub profile:
 </p>
 
 
-# Premium Engineering Profile
+# PEngineering Profile
 
 <div align="center">
 
@@ -291,37 +283,6 @@ Supporting enterprise IT operations across a **400+ device environment**, spanni
 <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-4338CA?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ranjit-copilot&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D0B18&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&ring_color=7C3AED" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjit-copilot&hide_border=true&theme=tokyonight&background=0D0B18&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjit-copilot&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D0B18&title_color=A78BFA&text_color=CBD5E1" height="170"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-<img src="./profile/trophy.svg" alt="GitHub Trophies" />
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Ranjit-copilot/Ranjit-copilot/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 ---
