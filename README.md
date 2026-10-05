@@ -8,6 +8,21 @@
 
 ---
 
+<!-- RANJIT_PREMIUM_PROFILE_DASHBOARD -->
+# Profile Dashboard
+
+<div align="center">
+
+<img src="./profile/profile-at-a-glance.svg" width="100%" alt="Technical Ranjit — Profile at a glance" />
+
+<br/><br/>
+
+<img src="./profile/tools-i-build-with.svg" width="100%" alt="Technical Ranjit — Tools I build with" />
+
+</div>
+
+---
+
 # GitHub Analytics
 
 <div align="center">
@@ -66,7 +81,7 @@
 </p>
 
 
-# PEngineering Profile
+# Engineering Profile
 
 <div align="center">
 
@@ -108,18 +123,6 @@ I am a **Sr. Support Engineer** focused on enterprise IT operations, infrastruct
 ---
 
 # Tech Stack
-
-### Languages
-
-<p align="center"><img src="https://skillicons.dev/icons?i=powershell,python,js,html,css,sql,bash" /></p>
-
-### Frontend
-
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js" /></p>
-
-### Backend & Databases
-
-<p align="center"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,python,mysql,sqlite" /></p>
 
 ### Cloud, DevOps & Tooling
 
@@ -289,12 +292,6 @@ Supporting enterprise IT operations across a **400+ device environment**, spanni
 
 # Current Focus
 
-\`\`\`yaml
-profile:
-  name: "Ranjit Rajbhar"
-  role: "Sr. Support Engineer"
-  location: "Mumbai, India"
-
 Learning:
   - CCNA
   - Azure
@@ -348,19 +345,4 @@ Open To:
 
 </div>
 
-
----
-
-<!-- RANJIT_PREMIUM_PROFILE_DASHBOARD -->
-# ✦ Premium Profile Dashboard
-
-<div align="center">
-
-<img src="./profile/profile-at-a-glance.svg" width="100%" alt="Technical Ranjit — Profile at a glance" />
-
-<br/><br/>
-
-<img src="./profile/tools-i-build-with.svg" width="100%" alt="Technical Ranjit — Tools I build with" />
-
-</div>
 
